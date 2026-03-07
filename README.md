@@ -52,6 +52,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/0412-fizz-buzz) |
 ## Trie
 |  |
 | ------- |
@@ -111,6 +112,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/0066-plus-one) |
+| [0412-fizz-buzz](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/0412-fizz-buzz) |
 ## Queue
 |  |
 | ------- |
@@ -127,4 +129,8 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/0389-find-the-difference) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
