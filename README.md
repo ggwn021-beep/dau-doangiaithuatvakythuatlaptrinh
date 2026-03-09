@@ -14,6 +14,7 @@
 | [0454-4sum-ii](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/0485-max-consecutive-ones) |
+| [0495-teemo-attacking](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/0495-teemo-attacking) |
 | [0605-can-place-flowers](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/0724-find-pivot-index) |
 | [0912-sort-an-array](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/0912-sort-an-array) |
@@ -139,4 +140,5 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/0412-fizz-buzz) |
+| [0495-teemo-attacking](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/0495-teemo-attacking) |
 <!---LeetCode Topics End-->
