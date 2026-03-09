@@ -35,6 +35,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/0454-4sum-ii) |
 | [0575-distribute-candies](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/0575-distribute-candies) |
+| [0771-jewels-and-stones](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/0771-jewels-and-stones) |
 ## Sorting
 |  |
 | ------- |
@@ -61,6 +62,7 @@
 | [0392-is-subsequence](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/0771-jewels-and-stones) |
 ## Trie
 |  |
 | ------- |
