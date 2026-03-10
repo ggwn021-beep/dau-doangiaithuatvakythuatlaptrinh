@@ -74,6 +74,7 @@
 | [0771-jewels-and-stones](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/0771-jewels-and-stones) |
 | [0824-goat-latin](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/0824-goat-latin) |
 | [1436-destination-city](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/1436-destination-city) |
+| [1556-thousand-separator](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/1556-thousand-separator) |
 ## Trie
 |  |
 | ------- |
