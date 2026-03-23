@@ -27,6 +27,7 @@
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1436-destination-city](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/1436-destination-city) |
+| [1732-find-the-highest-altitude](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/1732-find-the-highest-altitude) |
 | [2418-sort-the-people](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/2418-sort-the-people) |
 ## Hash Table
 |  |
@@ -167,6 +168,7 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/0724-find-pivot-index) |
+| [1732-find-the-highest-altitude](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/1732-find-the-highest-altitude) |
 ## String Matching
 |  |
 | ------- |
