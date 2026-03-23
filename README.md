@@ -52,6 +52,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1436-destination-city](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/1436-destination-city) |
 | [1748-sum-of-unique-elements](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/1748-sum-of-unique-elements) |
+| [1796-second-largest-digit-in-a-string](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/1796-second-largest-digit-in-a-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2418-sort-the-people](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/2418-sort-the-people) |
 ## Sorting
@@ -90,6 +91,7 @@
 | [1556-thousand-separator](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/1556-thousand-separator) |
 | [1694-reformat-phone-number](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/1694-reformat-phone-number) |
 | [1773-count-items-matching-a-rule](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/1773-count-items-matching-a-rule) |
+| [1796-second-largest-digit-in-a-string](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/1796-second-largest-digit-in-a-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2418-sort-the-people](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/2418-sort-the-people) |
 ## Trie
