@@ -33,6 +33,7 @@
 | [2057-smallest-index-with-equal-value](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/2057-smallest-index-with-equal-value) |
 | [2073-time-needed-to-buy-tickets](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/2073-time-needed-to-buy-tickets) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2418-sort-the-people](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/2418-sort-the-people) |
 ## Hash Table
 |  |
@@ -57,6 +58,7 @@
 | [1748-sum-of-unique-elements](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/1748-sum-of-unique-elements) |
 | [1796-second-largest-digit-in-a-string](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/1796-second-largest-digit-in-a-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2418-sort-the-people](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/2418-sort-the-people) |
 ## Sorting
 |  |
@@ -97,6 +99,7 @@
 | [1796-second-largest-digit-in-a-string](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/1796-second-largest-digit-in-a-string) |
 | [1844-replace-all-digits-with-characters](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/1844-replace-all-digits-with-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2418-sort-the-people](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/2418-sort-the-people) |
 ## Trie
 |  |
@@ -137,6 +140,7 @@
 | [0819-most-common-word](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/0819-most-common-word) |
 | [1748-sum-of-unique-elements](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/2085-count-common-words-with-one-occurrence) |
 ## Quickselect
 |  |
 | ------- |
