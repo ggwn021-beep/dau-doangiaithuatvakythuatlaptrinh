@@ -30,6 +30,7 @@
 | [1732-find-the-highest-altitude](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/1748-sum-of-unique-elements) |
 | [1773-count-items-matching-a-rule](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/1773-count-items-matching-a-rule) |
+| [2057-smallest-index-with-equal-value](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/2057-smallest-index-with-equal-value) |
 | [2418-sort-the-people](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/2418-sort-the-people) |
 ## Hash Table
 |  |
