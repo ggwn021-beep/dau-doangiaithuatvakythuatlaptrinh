@@ -199,6 +199,7 @@
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1518-water-bottles](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/1518-water-bottles) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2169-count-operations-to-obtain-zero](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/2169-count-operations-to-obtain-zero) |
 ## Queue
 |  |
 | ------- |
@@ -226,6 +227,7 @@
 | [1518-water-bottles](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/1518-water-bottles) |
 | [2073-time-needed-to-buy-tickets](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/2073-time-needed-to-buy-tickets) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2169-count-operations-to-obtain-zero](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/2169-count-operations-to-obtain-zero) |
 ## Binary Search
 |  |
 | ------- |
