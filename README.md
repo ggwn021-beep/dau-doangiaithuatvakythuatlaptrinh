@@ -36,6 +36,7 @@
 | [2085-count-common-words-with-one-occurrence](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2418-sort-the-people](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/2418-sort-the-people) |
 ## Hash Table
 |  |
@@ -61,6 +62,7 @@
 | [1796-second-largest-digit-in-a-string](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/1796-second-largest-digit-in-a-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2418-sort-the-people](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/2418-sort-the-people) |
 ## Sorting
 |  |
@@ -212,4 +214,8 @@
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/2089-find-target-indices-after-sorting-array) |
+## Matrix
+|  |
+| ------- |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 <!---LeetCode Topics End-->
