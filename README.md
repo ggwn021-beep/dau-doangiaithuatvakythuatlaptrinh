@@ -23,6 +23,7 @@
 | [0724-find-pivot-index](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/0724-find-pivot-index) |
 | [0819-most-common-word](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/0819-most-common-word) |
 | [0860-lemonade-change](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/0860-lemonade-change) |
+| [0881-boats-to-save-people](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/1089-duplicate-zeros) |
@@ -94,6 +95,7 @@
 | [0347-top-k-frequent-elements](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/0455-assign-cookies) |
+| [0881-boats-to-save-people](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -152,6 +154,7 @@
 | [0125-valid-palindrome](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/0455-assign-cookies) |
+| [0881-boats-to-save-people](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/0881-boats-to-save-people) |
 | [1089-duplicate-zeros](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/1089-duplicate-zeros) |
 ## Dynamic Programming
 |  |
@@ -198,6 +201,7 @@
 | [0455-assign-cookies](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/0860-lemonade-change) |
+| [0881-boats-to-save-people](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/0881-boats-to-save-people) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
