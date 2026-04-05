@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/0049-group-anagrams) |
@@ -143,6 +144,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/0125-valid-palindrome) |
@@ -190,6 +192,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/0860-lemonade-change) |
