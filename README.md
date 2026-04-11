@@ -352,4 +352,12 @@
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/0219-contains-duplicate-ii) |
 | [0658-find-k-closest-elements](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/0658-find-k-closest-elements) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
