@@ -305,6 +305,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1518-water-bottles](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/1518-water-bottles) |
+| [2119-a-number-after-a-double-reversal](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/2119-a-number-after-a-double-reversal) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2169-count-operations-to-obtain-zero](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/2180-count-integers-with-even-digit-sum) |
