@@ -306,6 +306,7 @@
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2169-count-operations-to-obtain-zero](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2469-convert-the-temperature](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/2469-convert-the-temperature) |
 | [2485-find-the-pivot-integer](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/2485-find-the-pivot-integer) |
 ## Queue
 |  |
