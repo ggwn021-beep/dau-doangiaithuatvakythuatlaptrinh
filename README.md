@@ -55,6 +55,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1436-destination-city](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/1436-destination-city) |
+| [1652-defuse-the-bomb](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/1652-defuse-the-bomb) |
 | [1732-find-the-highest-altitude](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/1748-sum-of-unique-elements) |
 | [1773-count-items-matching-a-rule](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/1773-count-items-matching-a-rule) |
@@ -403,6 +404,7 @@
 | [0219-contains-duplicate-ii](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/0424-longest-repeating-character-replacement) |
 | [0658-find-k-closest-elements](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/0658-find-k-closest-elements) |
+| [1652-defuse-the-bomb](https://github.com/ggwn021-beep/dau-doangiaithuatvakythuatlaptrinh/tree/master/1652-defuse-the-bomb) |
 ## Linked List
 |  |
 | ------- |
