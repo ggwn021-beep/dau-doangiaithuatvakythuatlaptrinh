@@ -1,14 +1,13 @@
 class Solution(object):
     def plusOne(self, digits):
-        # Đi từ cuối mảng (hàng đon vị) ngược lên đầu
+        # Đi ngược từ cuối mảng lên đầu mảng
         for i in range(len(digits) - 1, -1, -1):
-            if digits[i] < 9:
-                digits[i] += 1
-                return digits # Cộng xong mà không bị tràn (nhớ 1) thì kết thúc
+            if digits[i] == 9:
+                digits[i] = 0 # Tràn số, biến thành 0 và tiếp tục vòng lặp để nhớ 1 sang trái
             else:
-                # Nếu là số 9 thì thành 0 và nhường quyền cộng (nhớ 1) cho vòng lặp tiếp theo
-                digits[i] = 0
+                digits[i] += 1
+                return digits # Đã cộng xong mà không tràn, trả về luôn!
                 
-        # Nếu vòng lặp chạy hết sạch mà vẫn không return (ví dụ mảng ban đầu là [9, 9, 9] thành [0, 0, 0])
-        # Thì ta phải nhét thêm số 1 vào đầu mảng (thành [1, 0, 0, 0])
+        # Nếu chạy hết vòng lặp mà chưa return (nghĩa là toàn số 9, ví dụ 99 -> 00)
+        # Ta phải nhét thêm số 1 vào đầu hàng
         return [1] + digits
